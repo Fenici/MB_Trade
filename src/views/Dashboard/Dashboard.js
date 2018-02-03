@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 import {Bar, Doughnut, Line, Pie, Polar, Radar} from "react-chartjs-2";
 import {BootstrapTable, TableHeaderColumn} from 'react-bootstrap-table';
-// import '../css/Table.css';
-import '../../../node_modules/react-bootstrap-table/css/react-bootstrap-table.css';
-
 import {
     Badge,
     Row,
